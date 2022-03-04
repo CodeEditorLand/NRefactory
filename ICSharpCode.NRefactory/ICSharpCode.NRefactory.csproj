@@ -24,7 +24,7 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <EnableDefaultCompileItems>False</EnableDefaultCompileItems>
     <EnableDefaultEmbeddedResourceItems>False</EnableDefaultEmbeddedResourceItems>
-    <TargetFramework>net472</TargetFramework>
+    <TargetFrameworks>net6.0;net472</TargetFrameworks>
     <Configurations>Debug;Release;net_4_5_Debug;net_4_5_Release</Configurations>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
